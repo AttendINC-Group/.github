@@ -2,7 +2,7 @@
 AttendINC was created for the use of SST. It was created during Project Serve 2023 by the AttendINC company of SST Inc. It is used to take attendance in SST Inc. and soon will be expanded to the whole of SST.
 
 ## Usage
-AttendINC is to be used with https://attend-inc-sandy.vercel.app/ and there are no workarounds. 
+AttendINC is to be used with https://exisst.sstinc.org/ and there are no workarounds. 
 1. We use custom encryption to create a Qr code via the app
 2. Students will go to the website and scan the qr code
 3. Their data will then be sent to Firebase
